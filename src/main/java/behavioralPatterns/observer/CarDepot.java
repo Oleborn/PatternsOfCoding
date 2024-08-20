@@ -1,4 +1,4 @@
-package Behaviour1.Observer;
+package behavioralPatterns.observer;
 
 public class CarDepot extends Publisher{
     public void produceCar()

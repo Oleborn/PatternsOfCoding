@@ -1,4 +1,4 @@
-package Behaviour1.Observer;
+package behavioralPatterns.observer;
 
 public class CarVendor {
     private CarDepot carDepot;

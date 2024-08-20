@@ -1,4 +1,4 @@
-package Behaviour1.Mediator;
+package behavioralPatterns.mediator;
 
 public class CarSaloon extends Object {
     public CarSaloon(Mediator mediator) {

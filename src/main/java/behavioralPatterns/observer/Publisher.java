@@ -1,4 +1,6 @@
-package Behaviour1.Observer;
+package behavioralPatterns.observer;
+
+import behavioralPatterns.observer.Subscriber;
 
 import java.util.ArrayList;
 

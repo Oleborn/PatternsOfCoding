@@ -1,4 +1,4 @@
-package Behaviour1.Mediator;
+package behavioralPatterns.mediator;
 
 import java.util.Arrays;
 

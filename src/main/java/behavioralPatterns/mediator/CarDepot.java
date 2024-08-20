@@ -1,4 +1,4 @@
-package Behaviour1.Mediator;
+package behavioralPatterns.mediator;
 
 public class CarDepot extends Object{
 

@@ -1,6 +1,5 @@
-package Behaviour1.Observer;
+package behavioralPatterns.observer;
 
-import jdk.nashorn.internal.runtime.QuotedStringTokenizer;
 
 public class CarSaloon implements Subscriber {
     private int counter;
